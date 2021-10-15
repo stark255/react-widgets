@@ -75,6 +75,10 @@ export const translateOptions = [
   {  
       label: 'German',
       value: 'de'
+  },
+  {
+      label: 'Greek',
+      value: 'el'
   },  
   {  
       label: 'Gujarati',
@@ -91,6 +95,10 @@ export const translateOptions = [
   {  
       label: 'Igbo',
       value: 'ig'
+  },
+  {
+      label: 'Irish',
+      value: 'ga'
   },  
   {  
       label: 'Italian',
